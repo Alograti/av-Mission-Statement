@@ -6,4 +6,4 @@ Behind our clients’ success is ActiveViam’s award-winning product Atoti+.  A
 # Edited: 
 ActiveViam is a global software provider specializing in decision support for business professionals within the the most data-intensive, fastest-moving, and highly-regulated industry of Finance. Since 2005, our mission has been to augment and accelerate the decision making process with innovative data analytics.
 
-Behind our clients' success is ActiveViam's award-winning product Atoti+. Atoti+ is a data analytics platform that runs under the hood of all our products, combining powerful data aggregation, visualization, and workflow management functionalities. 
+Behind our clients' success is ActiveViam's award-winning product Atoti+. Atoti+ is a data analytics platform that runs under the hood of all our products, resulting in the cumulation of powerful data aggregation, visualization, and workflow management functionalities.
